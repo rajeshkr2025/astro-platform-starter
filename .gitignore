@@ -22,3 +22,13 @@ pnpm-debug.log*
 
 # Local Netlify folder
 .netlify
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Todo app data
+tasks.json
